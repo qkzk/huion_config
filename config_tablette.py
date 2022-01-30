@@ -38,7 +38,7 @@ response = """
     ↳ AONE Varmilo Keyboard Consumer Control  	id=16	[slave  keyboard (3)]
 
 """
-PEN_INPUT_ID = "HID 256c:006d"
+PEN_INPUT_ID = "HID 256c:006d Pen"
 SCREENS = {0: "HDMI-A-0", 1: "DisplayPort-2"}
 
 
